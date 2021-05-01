@@ -6,6 +6,6 @@ This proposed instance is made possible through the author: Anuar, Wadi Khalid, 
 
 Thank you for your interest in the proposed test instances
 
-We humbly request those who find this instance beneficial for their research work to also acknowledge us as the original contributor to these Test Instances.
+We humbly request those who find the proposed instances beneficial for their research work to also acknowledge us as the original contributor to these Test Instances in their publications and projects.
 
 
