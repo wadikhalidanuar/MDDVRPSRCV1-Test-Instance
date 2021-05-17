@@ -46,7 +46,7 @@ Each damage file is an excel file containing:
 A python file served as an example is provided to extract the instance and damage data:
 1) LOAD_INTS_DAMG_V2.py
 
-where the output of these python code is obtaining:
+The output of these python code is:
 1) cost or distance matrix
 2) time travel matrix
 3) road capacity matrix
