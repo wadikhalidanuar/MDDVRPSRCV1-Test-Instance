@@ -61,7 +61,7 @@ the time matrix is computed based on the assumption that vehicle moves under con
 *******************************************************************************************************************************************************************
 REQUIREMENTS
 *******************************************************************************************************************************************************************
-1) Python 2.7. the python code to load the test instance and damage file is tested with. It is possible to convert the code to python 3. some syntax changes is advised
+1) Python 2.7. The python code to load the test instance and damage file into python is tested with python 2.7. It is possible to convert the code to python 3. some syntax changes is advised
 2) microsoft excel
 3) zip file extraction tools
 
