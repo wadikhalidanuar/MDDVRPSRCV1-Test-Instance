@@ -1,4 +1,4 @@
-# VRP-Test-Instance
+# MDDVRPSRCV1-Test-Instance
 
 Thank you for your interest in the proposed test instances
 
