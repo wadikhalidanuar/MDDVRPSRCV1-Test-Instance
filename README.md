@@ -74,8 +74,8 @@ INSTRUCTIONS
 (b) LOAD_DAMAGE TO GITHUB.zip
 (c) LOAD_INTS_DAMG_V2.py
 
-2) unpack (a) in a different folder. note the path to folder where (a) is unpack
-3) unpack (b) in a different folder. note the path to folder where (b) is unpack
+2) unpack (a) in a different folder. note the path to folder where (a) is unpacked
+3) unpack (b) in a different folder. note the path to folder where (b) is unpacked
 
 4) open LOAD_INTS_DAMG_V2.py with python 2.7 
 
